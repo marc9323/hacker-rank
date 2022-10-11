@@ -2,6 +2,7 @@ package hackerrank;
 
 import java.util.HashMap;
 
+// comment is a change to explore github
 public class Anagrams {
 
     static boolean isAnagram(String a, String b) {
